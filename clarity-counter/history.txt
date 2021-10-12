@@ -1,0 +1,4 @@
+#V2
+(contract-call? .counter get-counter)
+clear
+(contract-call? .counter get-counter)
